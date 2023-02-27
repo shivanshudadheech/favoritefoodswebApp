@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.image01 {
+    width: 100px;
+    height: 80px;
+}
+
+#step01 {
+    color: black;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+#step02 {
+    color: black;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+#step03 {
+    color: black;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+#step04 {
+    color: black;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+.bg-container01 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.heading01 {
+    color: #ffffff;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.heading02 {
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.button01 {
+    color: #ffffff;
+    font-size: 12px;
+    font-family: "Roboto";
+    background-color: #d0b200;
+    border-width: 0px;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.button02 {
+    color: #ffffff;
+    font-size: 12px;
+    font-family: "Roboto";
+    background-color: transparent;
+    border-width: 1px;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    margin-right: 10px;
+    border-color: #d0b200;
+}
+
+.bg-container02 {
+    background-color: #f9fbfe;
+}
+
+.heading03 {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.paragraph01 {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.card01 {
+    background-color: #ffffff;
+    border-radius: 15px;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+}
+
+.card-image01 {
+    width: 60px;
+    height: 60px;
+}
+
+.card-heading01 {
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+.card-paragraph01 {
+    color: #7b8794;
+    font-size: 15px;
+    font-family: "Roboto";
+
+}
+
+.mini {
+    color: black;
+    font-family: "Roboto";
+    font-style: italic;
+    font-weight: bold;
+}
+
+.bg-container03 {
+    background-color: #ffffff;
+}
+
+.container03-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.container03-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+}
+
+.container03-card-image {
+    border-radius: 8px;
+}
+
+.container03-mini {
+    color: #323f4b;
+    font-size: 20px;
+}
+
+.link {
+    color: #d0b200;
+}
+
+.manu-image {
+    width: 250px;
+}
+
+.payment {
+    width: 50px;
+    height: 40px;
+    margin-right: 35px;
+}
+
+.bg-container04 {
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.modal-title {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 30px;
+}
+
+.icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    padding: 25px;
+    margin-right: 20px;
+}
+
+.footer-section-bg-container {
+    background-color: #b3b6ba;
+    background-size: cover;
+    height: 30vh;
+}
+
+.last-section01 {
+    color: #ffddba;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.last-section02 {
+    color: #ffddba;
+    font-size: 19px;
+    font-weight: 500;
+}
